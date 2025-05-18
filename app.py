@@ -56,7 +56,7 @@ with st.sidebar:
     
     # Tambahkan gambar atau logo
     try:
-        image = Image.open('soil_fertility.png')  # Ganti dengan path gambar Anda
+        image = Image.open('soil_fertility.png')
         st.image(image, caption='Ilustrasi Kesuburan Tanah')
     except:
         pass
