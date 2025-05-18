@@ -62,7 +62,7 @@ with st.sidebar:
         pass
     
     st.markdown("---")
-    st.caption("© 2023 Tim Agroteknologi. All rights reserved.")
+    st.caption("© 2025 Muhammad Rofiif Syarof Nur Aufaa. All rights reserved.")
 
 # Judul aplikasi
 st.title("🌱 Prediksi Kesuburan Tanah")
@@ -205,5 +205,5 @@ st.caption("""
     - Gunakan data hasil pengukuran laboratorium untuk akurasi maksimal  
     - Prediksi ini berdasarkan model machine learning dan bersifat sebagai panduan awal  
     - Kondisi lapangan mungkin memerlukan penyesuaian tambahan  
-    - Update terakhir model: Januari 2023
+    - Update terakhir model: Mei 2025
 """)
